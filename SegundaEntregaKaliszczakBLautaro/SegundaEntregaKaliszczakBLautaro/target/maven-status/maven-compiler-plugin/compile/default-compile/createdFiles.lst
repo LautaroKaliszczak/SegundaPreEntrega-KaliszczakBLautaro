@@ -1,0 +1,13 @@
+com\coderhouse\repositories\ComercioRepository.class
+com\coderhouse\repositories\ProductoRepository.class
+com\coderhouse\services\ComercioService.class
+com\coderhouse\models\Producto.class
+com\coderhouse\services\ProductoService.class
+com\coderhouse\models\Comercio.class
+com\coderhouse\controllers\ComercioController.class
+com\coderhouse\services\ClienteService.class
+com\coderhouse\controllers\ProductoController.class
+com\coderhouse\models\Cliente.class
+com\coderhouse\repositories\ClienteRepository.class
+com\coderhouse\controllers\ClienteController.class
+com\coderhouse\SegundaEntregaKaliszczakBLautaroApplication.class
